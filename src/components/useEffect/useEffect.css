@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(109, 172, 151);
+}
+.image {
+    width: 250px;
+    border-right: 1px solid black;
+    height: 120px;
+}
+img {
+    width: 140px;
+    height: 100%;
+}
+.textleft{
+    text-align: left!important;
+}
+.card{
+    border: 2px solid black;
+}
